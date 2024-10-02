@@ -1,0 +1,4 @@
+X,Y,Z = "orange","banana","cherry"
+print(X)
+print(Y)
+print(Z)
